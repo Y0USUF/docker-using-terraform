@@ -22,8 +22,8 @@ Provision a **local Docker container** using **Terraform** to demonstrate Infras
 
 ### 1 Clone this repository
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/Y0USUF/docker-using-terraform.git
+cd docker-using-terraform.git
 ```
 ### 2️ Initialize Terraform
 ```
@@ -47,7 +47,7 @@ Pull the nginx:latest image
 
 Create a container named my_nginx
 
-Map host port 9090 → container port 80
+Map host available-port → container port 80
 
 ### ✅ Verification Steps
 
