@@ -1,4 +1,4 @@
-# Task 3: Infrastructure as Code (IaC) with Terraform and Docker
+# Infrastructure as Code (IaC) with Terraform and Docker
 
 ## 🎯 Objective
 Provision a **local Docker container** using **Terraform** to demonstrate Infrastructure as Code (IaC) principles.
